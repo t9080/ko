@@ -1,1 +1,31 @@
-# ko
+TVB翡翠台,http://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
+TVB翡翠台-普通话,http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+TVB無綫財經,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+TVB無綫財經,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_financeintl.smil/playlist.m3u8?hdnea=st=1531590055~exp=1531676455~acl=/newslive/smil:mobilehd_financeintl.smil/*~hmac=9d942c158cb79155c278a96380ace7a9de6e12d40a9108f651993701c93347ec
+TVB無綫新聞, http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
+TVB娛樂新聞,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+TVB娛樂新聞,http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1531645497~exp=1531731897~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=e92c7a343a6a9c59ebbb87c8eb847e5472fa0708ba975b5e7306307bd11a6624
+鳳凰香港,http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+鳳凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+鳳凰美洲,http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+鳳凰電影,http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+星空衛視,http://222.207.48.30/hls/startv.m3u8
+星空衛視,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+美亞電影台,http://59.120.242.104:9000/live/live2.m3u8
+美亞電影台,http://1.live1.tvvtvv.com/plus/59live.m3u8?id=live2
+星衛電影台,http://59.120.242.104:9000/live/live10.m3u8
+新視覺,http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/2300000/d1.m3u8
+新視覺,http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/2300000/live.m3u8
+RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
+RHK-31電視台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+香港衛視,http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
+香港衛視,http://fms.cntv.lxdns.com/live/flv/channel84.flv
+HK開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+HK開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+NOW直播,http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
+NOW華劇,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
+耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才財經台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8?wowzasessionid=64000
